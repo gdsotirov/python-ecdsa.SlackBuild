@@ -1,0 +1,11 @@
+python-ecdsa: Python ECDSA (A cryptographic signature library in pure Python)
+python-ecdsa:
+python-ecdsa: This is an easy-to-use implementation of ECDSA cryptography
+python-ecdsa: (Elliptic Curve Digital Signature Algorithm), implemented purely
+python-ecdsa: in Python, released under the MIT license. With this library,
+python-ecdsa: you can quickly create keypairs (signing key and verifying key),
+python-ecdsa: sign messages, and verify the signatures. The keys and signatures
+python-ecdsa: are very short, making them easy to handle and incorporate into
+python-ecdsa: other protocols.
+python-ecdsa:
+python-ecdsa: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
