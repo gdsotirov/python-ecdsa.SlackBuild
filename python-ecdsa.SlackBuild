@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for Python ECDSA
-# Copyright (C) 2015 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2015-2019 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: python-ecdsa.SlackBuild,v 1.2 2015/05/01 08:31:03 gsotirov Exp $
+# $Id: python-ecdsa.SlackBuild,v 1.2.2.1 2019/05/05 10:50:04 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=python-ecdsa
-VERSION=0.13
+VERSION=0.13.2
 BUILD=${BUILD:-1}
 ARCH=${ARCH:-i486}
 
