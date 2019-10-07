@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: python-ecdsa.SlackBuild,v 1.4 2019/05/05 11:04:02 gsotirov Exp $
+# $Id: python-ecdsa.SlackBuild,v 1.5 2019/10/07 18:22:59 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=python-ecdsa
-VERSION=0.13.2
+VERSION=0.13.3
 BUILD=${BUILD:-1}
 ARCH=${ARCH:-i486}
 
