@@ -8,4 +8,4 @@ python-ecdsa: sign messages, and verify the signatures. The keys and signatures
 python-ecdsa: are very short, making them easy to handle and incorporate into
 python-ecdsa: other protocols.
 python-ecdsa:
-python-ecdsa: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+python-ecdsa: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
